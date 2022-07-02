@@ -1,2 +1,2 @@
-# react-query-tutorial
-All course files for the React Query tutorial on The Net Ninja YouTube channel.
+# react-query
+Example of how useQuery works.
